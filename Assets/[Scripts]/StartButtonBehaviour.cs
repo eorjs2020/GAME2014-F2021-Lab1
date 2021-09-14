@@ -6,6 +6,6 @@ public class StartButtonBehaviour : MonoBehaviour
 {
     public void OnStartButtonPressed()
     {
-        Debug.Log("Start Button Pressed");
+        Debug.Log("Start Button Pressed !!");
     }
 }
